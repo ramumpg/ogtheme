@@ -1,0 +1,48 @@
+Progressive Web App (PWA) Ready
+225+ Inbuilt Demo Pages
+15 Color Themes Included
+Light and Dark Mode
+4 Different Header Layouts
+3 Different Footer Layouts
+Light, dark and colored Navigation Menu Styles
+Various Types of Portfolios
+Various Types of Blogs
+User Interface and Utility Components
+Charts library for Graphical Representations
+Calendar and Event App
+Social Media app
+Ecommerce app
+Blog app
+Portfolio app
+Payment & Wallet app
+Events app
+Chat & Messaging app
+Mailbox app
+Contacts app
+General purpose app
+Profile Management Module
+Fixed Bottom Menu for quick links
+Site Access and Error Pages Section
+Contacts, Messages, Notification Modules
+Mailbox Module
+Various Mobile Site Inner Pages
+Various Input Forms and Components
+Complete Mobile UI App
+Inbuilt Pages (Home, Company, User Actions, Blogs, Gallery, etc.)
+Detailed Documentation
+Shop and Ecommerce App
+Sliders
+Graphs and charts
+Date & Time Pickers
+Carousels
+Elements
+User Interface
+Mailbox App
+Wallet and Payment App
+Contacts App
+Chat & Messages App
+User Profile
+Social Media App
+User App Access
+Error Pages
+Events App

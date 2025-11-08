@@ -1,0 +1,6 @@
+Build using Materialize CSS framework.
+Google Fonts.
+Material Font Icons.
+Basic Header Layout.
+Basic Footer Layout.
+PHP, JS based visual editor (initial implementation).
