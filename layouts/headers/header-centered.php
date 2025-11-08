@@ -16,6 +16,9 @@
             <li><a class="dropdown-trigger" href="#!" data-target="dropdown4">Ecommerce<i class="material-icons right">arrow_drop_down</i></a></li>
             <li><a class="dropdown-trigger" href="#!" data-target="dropdown5">Wallet<i class="material-icons right">arrow_drop_down</i></a></li>
             <li><a class="dropdown-trigger" href="#!" data-target="dropdown6">Chat<i class="material-icons right">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-trigger" href="#!" data-target="dropdown7">Mailbox<i class="material-icons right">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-trigger" href="#!" data-target="dropdown8">Contacts<i class="material-icons right">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-trigger" href="#!" data-target="dropdown9">General<i class="material-icons right">arrow_drop_down</i></a></li>
             <ul id="dropdown1" class="dropdown-content">
                 <li><a href="/portfolio/grid-2-columns.php">2 Column Grid</a></li>
                 <li><a href="/portfolio/masonry-3-columns.php">3 Column Masonry</a></li>
@@ -39,6 +42,19 @@
             <ul id="dropdown6" class="dropdown-content">
                 <li><a href="/chat/inbox.php">Inbox</a></li>
                 <li><a href="/chat/conversation.php">Conversation</a></li>
+            </ul>
+            <ul id="dropdown7" class="dropdown-content">
+                <li><a href="/mailbox/inbox.php">Inbox</a></li>
+                <li><a href="/mailbox/compose.php">Compose</a></li>
+                <li><a href="/mailbox/view.php">View</a></li>
+            </ul>
+            <ul id="dropdown8" class="dropdown-content">
+                <li><a href="/contacts/contacts.php">Contacts</a></li>
+                <li><a href="/contacts/add-contact.php">Add Contact</a></li>
+            </ul>
+            <ul id="dropdown9" class="dropdown-content">
+                <li><a href="/general/faq.php">FAQ</a></li>
+                <li><a href="/general/pricing.php">Pricing</a></li>
             </ul>
             <li>
                 <select id="theme-switcher">
