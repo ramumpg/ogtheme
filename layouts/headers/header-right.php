@@ -4,9 +4,17 @@
         <ul id="nav-mobile" class="left hide-on-med-and-down">
             <li><a href="/index.php">Home</a></li>
             <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Portfolio<i class="material-icons right">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-trigger" href="#!" data-target="dropdown2">Blog<i class="material-icons right">arrow_drop_down</i></a></li>
+            <li><a href="/components.php">Components</a></li>
+            <li><a href="/charts.php">Charts</a></li>
+            <li><a href="/events.php">Events</a></li>
             <ul id="dropdown1" class="dropdown-content">
                 <li><a href="/portfolio/grid-2-columns.php">2 Column Grid</a></li>
                 <li><a href="/portfolio/masonry-3-columns.php">3 Column Masonry</a></li>
+            </ul>
+            <ul id="dropdown2" class="dropdown-content">
+                <li><a href="/blog/blog-single-column.php">Single Column</a></li>
+                <li><a href="/blog/blog-masonry-2-columns.php">2 Column Masonry</a></li>
             </ul>
             <li>
                 <select id="theme-switcher">

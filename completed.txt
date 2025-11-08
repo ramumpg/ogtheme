@@ -6,3 +6,7 @@ PHP, JS based visual editor (initial implementation).
 3 Different Footer Layouts.
 Light, dark and colored Navigation Menu Styles.
 Various Types of Portfolios.
+Various Types of Blogs.
+User Interface and Utility Components.
+Charts library for Graphical Representations.
+Calendar and Event App.
