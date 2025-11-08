@@ -1,5 +1,6 @@
 <?php
-$footer_layout = isset($_GET['footer']) ? $_GET['footer'] : 'footer-left';
+$allowed_footers = ['footer-centered', 'footer-left', 'footer-minimal'];
+$footer_layout = isset($_GET['footer']) && in_array($_GET['footer'], $allowed_footers) ? $_GET['footer'] : 'footer-left';
 $footer_file = 'layouts/footers/' . $footer_layout . '.php';
 ?>
         <?php

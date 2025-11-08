@@ -10,3 +10,7 @@ Various Types of Blogs.
 User Interface and Utility Components.
 Charts library for Graphical Representations.
 Calendar and Event App.
+Social Media app.
+Ecommerce app.
+Payment & Wallet app.
+Chat & Messaging app.

@@ -1,10 +1,3 @@
-Social Media app
-Ecommerce app
-Blog app
-Portfolio app
-Payment & Wallet app
-Events app
-Chat & Messaging app
 Mailbox app
 Contacts app
 General purpose app
@@ -25,12 +18,6 @@ Date & Time Pickers
 Carousels
 Elements
 User Interface
-Mailbox App
-Wallet and Payment App
-Contacts App
-Chat & Messages App
 User Profile
-Social Media App
 User App Access
 Error Pages
-Events App

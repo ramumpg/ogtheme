@@ -1,5 +1,6 @@
 <?php
-$header_layout = isset($_GET['header']) ? $_GET['header'] : 'header-left';
+$allowed_headers = ['header-centered', 'header-left', 'header-right', 'header-app'];
+$header_layout = isset($_GET['header']) && in_array($_GET['header'], $allowed_headers) ? $_GET['header'] : 'header-left';
 $header_file = 'layouts/headers/' . $header_layout . '.php';
 ?>
 <!DOCTYPE html>
