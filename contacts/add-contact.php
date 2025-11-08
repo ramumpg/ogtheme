@@ -4,16 +4,16 @@
     <div class="container">
         <h1>Add Contact</h1>
         <div class="row">
-            <form class="col s12">
+            <form class="col s12" action="save-contact.php" method="post">
                 <div class="row">
                     <div class="input-field col s12">
-                        <input id="name" type="text" class="validate">
+                        <input id="name" name="name" type="text" class="validate">
                         <label for="name">Name</label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <input id="phone" type="text" class="validate">
+                        <input id="phone" name="phone" type="text" class="validate">
                         <label for="phone">Phone</label>
                     </div>
                 </div>
