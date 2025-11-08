@@ -1,6 +1,8 @@
 Build using Materialize CSS framework.
 Google Fonts.
 Material Font Icons.
-Basic Header Layout.
-Basic Footer Layout.
 PHP, JS based visual editor (initial implementation).
+4 Different Header Layouts.
+3 Different Footer Layouts.
+Light, dark and colored Navigation Menu Styles.
+Various Types of Portfolios.

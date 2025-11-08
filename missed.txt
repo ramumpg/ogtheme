@@ -1,11 +1,3 @@
-Progressive Web App (PWA) Ready
-225+ Inbuilt Demo Pages
-15 Color Themes Included
-Light and Dark Mode
-4 Different Header Layouts
-3 Different Footer Layouts
-Light, dark and colored Navigation Menu Styles
-Various Types of Portfolios
 Various Types of Blogs
 User Interface and Utility Components
 Charts library for Graphical Representations
