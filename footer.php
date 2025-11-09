@@ -10,8 +10,15 @@ $footer_file = 'layouts/footers/' . $footer_layout . '.php';
             include('layouts/footers/footer-left.php');
         }
         ?>
+        <?php include('layouts/fixed-bottom-menu.php'); ?>
 <!-- Materialize JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 <script src="/js/main.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('.fixed-action-btn');
+        var instances = M.FloatingActionButton.init(elems, {});
+    });
+</script>
 </body>
 </html>
