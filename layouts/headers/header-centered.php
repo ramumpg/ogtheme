@@ -7,6 +7,7 @@
     <div class="nav-wrapper">
         <ul id="nav-mobile" class="hide-on-med-and-down">
             <li><a href="/index.php">Home</a></li>
+            <li><a href="/dashboard.php">Dashboard</a></li>
             <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Portfolio<i class="material-icons right">arrow_drop_down</i></a></li>
             <li><a class="dropdown-trigger" href="#!" data-target="dropdown2">Blog<i class="material-icons right">arrow_drop_down</i></a></li>
             <li><a href="/components.php">Components</a></li>
@@ -22,6 +23,7 @@
             <li><a href="/login.php">Login</a></li>
             <li><a href="/register.php">Register</a></li>
             <li><a href="/notifications.php">Notifications</a></li>
+            <li><a class="dropdown-trigger" href="#!" data-target="dropdown10">Gallery<i class="material-icons right">arrow_drop_down</i></a></li>
             <ul id="dropdown1" class="dropdown-content">
                 <li><a href="/portfolio/grid-2-columns.php">2 Column Grid</a></li>
                 <li><a href="/portfolio/masonry-3-columns.php">3 Column Masonry</a></li>
@@ -60,6 +62,11 @@
                 <li><a href="/general/pricing.php">Pricing</a></li>
                 <li><a href="/team.php">Our Team</a></li>
                 <li><a href="/services.php">Services</a></li>
+                <li><a href="/forms.php">Forms</a></li>
+            </ul>
+            <ul id="dropdown10" class="dropdown-content">
+                <li><a href="/gallery/gallery-grid.php">Grid</a></li>
+                <li><a href="/gallery/gallery-masonry.php">Masonry</a></li>
             </ul>
             <li>
                 <select id="theme-switcher">

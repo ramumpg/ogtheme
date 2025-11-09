@@ -1,7 +1,12 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $name = $_POST['name'];
-    $phone = $_POST['phone'];
+    $name = trim($_POST['name']);
+    $phone = trim($_POST['phone']);
+
+    if (empty($name) || empty($phone)) {
+        header('Location: /contacts/add-contact.php?error=1');
+        exit;
+    }
 
     $contact = [
         'name' => $name,

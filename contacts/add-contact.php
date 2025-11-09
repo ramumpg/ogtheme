@@ -3,6 +3,11 @@
 <main>
     <div class="container">
         <h1>Add Contact</h1>
+        <?php if (isset($_GET['error']) && $_GET['error'] == 1): ?>
+            <div class="card-panel red">
+                <span class="white-text">Please fill in all fields.</span>
+            </div>
+        <?php endif; ?>
         <div class="row">
             <form class="col s12" action="save-contact.php" method="post">
                 <div class="row">
